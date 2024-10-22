@@ -11,10 +11,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/v2/D4D0BAQGB1KacxkxtNQ/company-logo_200_200/company-logo_200_200/0/1728992471712?e=1737590400&v=beta&t=8Al3KdZ8xqKviNks4-n5swQZWbWckJvKbHYu_XWuzzQ"  />
-
-###
-
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
