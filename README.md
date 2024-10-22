@@ -1,7 +1,5 @@
-# m10-ai
+# M10-AI
 
-
-<h2 align="left">Welcome to M10 AI</h2>
 
 ###
 
