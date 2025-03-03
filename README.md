@@ -1,11 +1,11 @@
 # M10 AI
 
-Welcome to M10 AI, Chalmers Technological University's first official AI student club! We’re a community dedicated to exploring the exciting world of artificial intelligence and empowering students with hands-on skills and knowledge.
+Welcome to M10 AI, Chalmers Technological University's first official AI student club! We’re a community dedicated to exploring the exciting artificial intelligence and empowering students with hands-on skills and knowledge.
 
 ###
 
 ## What We Do
-At M10 AI, we host workshops on essential developer tools like Docker and Git, and we dive into the process of building your own AI models from scratch. Whether you're a beginner or an experienced coder, our events are designed to inspire, educate, and connect you with like-minded peers.
+At M10 AI, we host workshops on essential developer tools like Docker and Git, and we dive into the process of building your own AI models from scratch. We also stay up to date with the latest research. Whether you're a beginner or an experienced coder, our events are designed to inspire, educate, and connect you with like-minded peers.
 
 ###
 
@@ -18,12 +18,11 @@ At M10 AI, we host workshops on essential developer tools like Docker and Git, a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo" />  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
 </div>
 
-###
 
 ## Get Involved
 We’d love to have you join us! To get in touch, connect with our community on Discord or reach out via LinkedIn. Let’s build the future of AI together.
