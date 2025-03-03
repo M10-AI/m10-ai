@@ -18,7 +18,7 @@ At M10 AI, we host workshops on essential developer tools like Docker and Git, a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo" />  
+  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-128x128.png" height="30" alt="rust logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
 </div>
