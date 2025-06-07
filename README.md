@@ -1,6 +1,6 @@
 # M10 AI
 
-Welcome to M10 AI, Chalmers Technological University's first official AI student club! We’re a community dedicated to exploring the exciting artificial intelligence and empowering students with hands-on skills and knowledge.
+Welcome to M10 AI, Chalmers Technological University's first real AI student club! We’re a community dedicated to exploring the exciting artificial intelligence and empowering students with hands-on skills and knowledge.
 
 ###
 
